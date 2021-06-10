@@ -12,8 +12,8 @@ extra-deps:
       - tonatona-persistent-postgresql
       - tonatona-persistent-sqlite
       - tonatona-servant
-  - git: https://github.com/arowm/haskell-google-server-api
-    commit: 243bed6e2fac02c00027c142087af6185e14de10
+  - git: https://github.com/mojamozya/haskell-google-server-api
+    commit: 029bfe2ea701a782209924731f51c8f84aef3371
 
 flags: {}
 extra-package-dbs: []
